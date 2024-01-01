@@ -1,0 +1,17 @@
+{
+  "name": "VOICE 24/7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+     "discord.js-selfbot-v13": "^2.15.0",
+    "express": "^4.17.1",
+      "@discordjs/voice": "^0.6.0"
+  }
+}
